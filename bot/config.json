@@ -1,0 +1,13 @@
+{
+			"Keyword":"$ASTR OR #ASTR OR #ASTAR OR #ASTARNetwork OR #ASTARNETWORK OR @WatanabeSota",
+			"KeywordSkip":"Profit,SHORT,LONG,TRADE,EARN,SCAM",
+			"BlackLists":"",
+			"FollowersCount": 200,
+			"FullTextCount": 80,
+			"TwitterAccount":"ASTARReTweet",
+			"TwitterNameFams":".astr",
+			"ConsumerKey": "QBFpRHxi64bazTiirhlV8Objg",
+			"ConsumerSecret": "OasDZ3MAZA68LjZ08sFidzsyYX7qF9QwjLP3hBH4jY5W4o4TI0",
+			"AccessToken": "1570355909020504067-7YzoCLzvrosiS7wD9TM8mGYl8rpUzC",
+			"AccessTokenSecret": "EDQHixOqr5GyugcNZGVhiWVPGayZXg9pmVvHIIjt3Zh9B"
+		}
